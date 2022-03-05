@@ -50,7 +50,7 @@ public class EntryPoint {
         }
         System.out.println("");
         for (int i = 1; i <= entries; i++) {
-            System.out.println("Employee "+ i + " information" + E[i-1]);
+            System.out.println("Employee "+ i + " information : " + E[i-1]);
         }
         
         
