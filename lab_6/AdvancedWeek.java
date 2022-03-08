@@ -1,4 +1,4 @@
-package lab_6;
+
 public class AdvancedWeek {
     // Initializing variables
 private static    String day_1 = "Monday";

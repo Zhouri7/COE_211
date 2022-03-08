@@ -1,7 +1,3 @@
-
-package lab_6;
-
-
 import java.util.Scanner;
 
 public class EntryPoint {
